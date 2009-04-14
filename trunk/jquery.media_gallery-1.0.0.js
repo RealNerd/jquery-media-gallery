@@ -37,14 +37,17 @@
  *
  * Options:
  *   target_container:  the element representing the target container
- *                      default is '#media_gallery'
+ *                      default: '#media_gallery'
  *                      
  *   media_container:   the element type of the media container
- *                      default is 'div'
+ *                      default: 'div'
  *                      
  *   auto_select_first: should media_gallery automatically display the first
  *                      media item?
- *                      default is 'true'
+ *                      default: true
+ *
+ *   thumbnail_element: the element selector for the thumbnails
+ *                      default: 'img'
  *
  * Examples:
  *   $('.media_gallery').media_gallery(); // default usage
