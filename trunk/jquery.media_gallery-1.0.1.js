@@ -1,5 +1,5 @@
 /**
- * jquery.media_gallery 1.0.0 - Using existing thumbnails and media files (such
+ * jquery.media_gallery 1.0.1 - Using existing thumbnails and media files (such
  *                              as YouTube thumbnails and videos) create a
  *                              clickable gallery.
  * 
@@ -10,7 +10,8 @@
  * http://www.opensource.org/licenses/mit-license.php
  *
  * Launch  : April 2009
- * Version : 1.0.0 - Tue Apr 14 2009
+ * Version : 1.0.0 - Apr 01 2009
+ * Version : 1.0.1 - Apr 14 2009
  *
  */
 
