@@ -7,7 +7,7 @@
  * http://www.thewhyandthehow.com
  *
  * Licensed under MIT license
- * http://www.opensource.org/licenses
+ * http://www.opensource.org/licenses/mit-license.php
  *
  * Launch  : April 2009
  * Version : 1.0.0 - Tue Apr 14 2009
