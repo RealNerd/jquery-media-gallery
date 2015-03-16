@@ -1,0 +1,1 @@
+jQuery plugin to create a set of thumbnails and media elements into a gallery.
